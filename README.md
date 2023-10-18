@@ -1,4 +1,21 @@
 # makerspace-website
 Source code for the SEAMEO RECSAM makerspace website (Index page is home.html)
 - Technology stack: HTML, CSS3, Javascript
+- Static Photo files can be downloaded at: https://drive.google.com/drive/folders/1GA_3mBAUsUuuXHNlDyDqbSJo8ZzJ2LTw?usp=share_link
+- File Hiearchy:
+  - static
+    - Photos and videos
+  - Website
+    - home.html
+    - script.js
+    - style.css
+    - include
+      - about.html
+      - contact.html
+      - partners.html
+      - projects.html
+      - slideshow.css
+      - slideshow.js
+      - team.html
+      - projects folder
 - Developer: James Tu
