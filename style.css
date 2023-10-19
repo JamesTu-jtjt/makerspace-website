@@ -10,7 +10,7 @@ body, html {
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  background-image: url("/static/1.jpg");
+  background-image: url("./static/1.jpg");
   z-index: 1;
   min-height: 100%;
 }
