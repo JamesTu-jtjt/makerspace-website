@@ -5,17 +5,17 @@ Source code for the SEAMEO RECSAM makerspace website (Index page is home.html)
 - File Hiearchy:
   - static
     - Photos and videos
-  - Website
-    - home.html
-    - script.js
-    - style.css
-    - include
-      - about.html
-      - contact.html
-      - partners.html
-      - projects.html
-      - slideshow.css
-      - slideshow.js
-      - team.html
-      - projects folder
+  - home.html
+  - script.js
+  - style.css
+  - include
+    - about.html
+    - contact.html
+    - partners.html
+    - projects.html
+    - slideshow.css
+    - slideshow.js
+    - team.html
+    - projects folder
+      - (list of projects by date)
 - Developer: James Tu
