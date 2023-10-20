@@ -1,8 +1,3 @@
-Certainly! Here's a well-formatted `README.md` file for the SEAMEO RECSAM Makerspace Website Source Code:
-
----
-
-```markdown
 # SEAMEO RECSAM Makerspace Website Source Code
 
 This repository contains the source code for the **SEAMEO RECSAM makerspace website**. 
