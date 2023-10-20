@@ -1,6 +1,5 @@
 // Modal Image Gallery
 function onClick(element, event) {
-  document.getElementById("img01").src = element.src;
   document.getElementById("modal01").style.display = "block";
   // var captionText = document.getElementById("caption");
   // captionText.innerHTML = element.alt;
@@ -13,7 +12,6 @@ function onClick(element, event) {
       })
       .then(data => {
           document.getElementById('caption').innerHTML = data;
-          closeNav();
       })
       .catch(error => {
           console.log('Looks like we hit a snag:', error);
