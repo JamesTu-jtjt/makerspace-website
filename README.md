@@ -60,7 +60,10 @@ This repository contains the source code for the **SEAMEO RECSAM makerspace webs
 
 ## Developer Info
 
-Developed by **James Tu**. Layout and styling powered by W3CSS.
-James Tu Linkedin: https://www.linkedin.com/in/james-tu-ncku/
+- Developed by **James Tu**. Layout and styling powered by W3CSS.
+- Social Media Profile:
+    - Linkedin: https://www.linkedin.com/in/james-tu-ncku/
+    - Instagram: @jt.handwriting
+- If needed, contact me at [jamestu6301@gmail.com!](mailto:jamestu6301@gmail.com)
 
 ---
