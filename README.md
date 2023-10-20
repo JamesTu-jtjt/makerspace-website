@@ -64,6 +64,6 @@ This repository contains the source code for the **SEAMEO RECSAM makerspace webs
 - Social Media Profile:
     - Linkedin: https://www.linkedin.com/in/james-tu-ncku/
     - Instagram: @jt.handwriting
-- If needed, contact me at [jamestu6301@gmail.com!](mailto:jamestu6301@gmail.com)
+- If needed, contact me at [jamestu6301@gmail.com](mailto:jamestu6301@gmail.com)
 
 ---
