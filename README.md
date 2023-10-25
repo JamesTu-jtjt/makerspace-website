@@ -12,7 +12,8 @@ This repository contains the source code for the **SEAMEO RECSAM makerspace webs
 
 ## Resources
 
-- 📸 **Photos Zip File**: [Download from Google Drive](https://drive.google.com/drive/folders/1GA_3mBAUsUuuXHNlDyDqbSJo8ZzJ2LTw?usp=share_link)
+- Demonstration Code for the SEAMEO RECSAM Makerspace Website
+🔗 [**Download Demo from Google Drive**](https://drive.google.com/drive/folders/1KDm_XK8MuZyqjK7g-7L_Ui-eWW9RU74B?usp=share_link) (after downloading, open index.html in your browser)
 
 ## File Hierarchy
 
@@ -34,10 +35,6 @@ This repository contains the source code for the **SEAMEO RECSAM makerspace webs
     └── projects
         └── (list of projects by date)
 ```
-
-## Demonstration Code for the SEAMEO RECSAM Makerspace Website
-
-🔗 **Download Demo**: [Download from Google Drive](https://drive.google.com/drive/folders/1KDm_XK8MuZyqjK7g-7L_Ui-eWW9RU74B?usp=share_link) (open index.html in your browser)
 
 ### Technology Stack for Demo
 
