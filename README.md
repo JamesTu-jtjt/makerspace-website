@@ -29,6 +29,7 @@ This repository contains the source code for the **SEAMEO RECSAM makerspace webs
     ├── contact.html
     ├── partners.html
     ├── projects.html
+    ├── resources.html
     ├── slideshow.css
     ├── slideshow.js
     ├── team.html
